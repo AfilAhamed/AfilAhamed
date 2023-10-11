@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AfilAhamed?tab=repositories](https://github.com/AfilAhamed?tab=repositories)
-
 - 💬 Ask me about **flutter,dart,provider,api**
 
 - 📫 How to reach me **afilahamed19@gmail.com**
