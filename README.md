@@ -22,5 +22,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afilahamed&" alt="afilahamed" /></p>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/AfilAhamed/snk/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
+<img src="https://raw.githubusercontent.com/AfilAhamed/output/github-contribution-grid-snake.svg" align="center" style="width: 100%" />
 </div>
