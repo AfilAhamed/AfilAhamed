@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Flutter,Dart,Hive,Provider,Api**
+- 💬 Ask me about **Flutter,Dart,Hive,Provider,Api,Freezed,Firebase**
 
 - 📫 How to reach me **afilahamed19@gmail.com**
 
